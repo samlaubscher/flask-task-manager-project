@@ -1,3 +1,7 @@
+* {
+    font-family: 'Cairo', sans-serif;
+}
+
 .text-shadow {
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
@@ -13,4 +17,12 @@
 .collapsible-header .col strong {
     margin: 5px;
     line-height: 42px;
+}
+
+.nav-wrapper {
+    padding: 0 20px;
+}
+
+.nav-wrapper a {
+    font-weight: 600;
 }
