@@ -26,3 +26,7 @@
 .nav-wrapper a {
     font-weight: 600;
 }
+
+.top-margin {
+    margin-top: 20px;
+}
