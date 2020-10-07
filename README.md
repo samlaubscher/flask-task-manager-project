@@ -10,6 +10,7 @@ A mini Task Manager database project utilizing Flask, MongoDB, & Python back end
 #### Python
 #### JavaScript
 #### Flask
+#### Jinja
 #### MongoDB
 #### HTML
 #### Materialize Framework
